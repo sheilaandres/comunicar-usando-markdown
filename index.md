@@ -4,3 +4,6 @@
 ```
 Yaktocat
 ```
+ - [ ] Activar GitHub Pages
+ - [ ] Hacer un esbozo de mi portfolio
+ - [x] Pesentarme al mundo
